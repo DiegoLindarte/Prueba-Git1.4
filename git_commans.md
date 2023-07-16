@@ -19,3 +19,5 @@ git commit: Este comando se usa para guardar los cambios realizados en el stagin
 git push: Este comando se usa para cargar contenido del repositorio local a un repositorio remoto.
 
 git merge: Este comando se usa para ramificar o fusionar al repositorio remoto
+
+Mensaje de prueba
